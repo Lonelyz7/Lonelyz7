@@ -5,7 +5,7 @@ const Lonely = {
     name: "Amjad",
     age: 13,
     from: "Morocco",
-    Discord: "Wassim.#0002",
+    Discord: "LONELY '鹰#0002",
     technologies: {
         backend: ["NodeJS"],
         database: ["Mysql", "MongoDB"],
