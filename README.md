@@ -1,16 +1,22 @@
-### Hi there 👋
+![Lonelyz7 stats](https://github-readme-stats.vercel.app/api?username=Lonelyz7&show_icons=true&theme=tokyonight)
 
-<!--
-**Lonelyz7/Lonelyz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const Lonely = {
+    name: "Amjad",
+    age: 13,
+    from: "Morocco",
+    Discord: "Wassim.#0002",
+    technologies: {
+        backend: ["NodeJS"],
+        database: ["Mysql", "MongoDB"],
+    },
+    languages: ["Python", "HTML", "CSS", "JavaScript"]
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Lonelyz7?tab=followers">
+  <img src="https://img.shields.io/github/followers/Lonelyz7">
+</a>
+<a href="https://github.com/Lonelyz7">
+   <img src="https://komarev.com/ghpvc/?username=Lonelyz7">
+</a>
