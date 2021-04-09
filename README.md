@@ -1,5 +1,7 @@
 ![Lonelyz7 stats](https://github-readme-stats.vercel.app/api?username=Lonelyz7&show_icons=true&theme=tokyonight)
-
+```js
+READ.ME BY IROO
+```
 ```js
 const Lonely = {
     name: "Amjad",
@@ -13,7 +15,6 @@ const Lonely = {
     languages: ["Python", "HTML", "CSS", "JavaScript"]
 };
 ```
-``Read.me BY IROO``
 <a href="https://github.com/Lonelyz7?tab=followers">
   <img src="https://img.shields.io/github/followers/Lonelyz7">
 </a>
