@@ -13,7 +13,9 @@ const Lonely = {
     languages: ["Python", "HTML", "CSS", "JavaScript"]
 };
 ```
-``Read.me BY IROO
+``
+Read.me BY IROO
+```
 <a href="https://github.com/Lonelyz7?tab=followers">
   <img src="https://img.shields.io/github/followers/Lonelyz7">
 </a>
